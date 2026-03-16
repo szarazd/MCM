@@ -1,0 +1,13 @@
+1; Travelling salesmen via simulated annealing
+2; Pricing via Brownian motion
+3; Ising model critical point simulation via Metropolis-Hastings algorithm
+4; MC integration techniques comparison
+5; Simulation of cosmic showers via Geant4
+6; Infection spreading analysis on various graphs
+7; Geant4 simulation in biology
+8; Percolation transition and forest fire simulation on a grid
+9; Predicting number of MPs in election processes
+10; RMC modelling on crystalline and non-crystalline samples
+11; Strategy comparison in Hearts
+12; Dust propagation simulations in a dormitory room
+13; MC-based game (chess, go, tic-tac-toe) engines

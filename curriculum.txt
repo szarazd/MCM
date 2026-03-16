@@ -1,0 +1,63 @@
+############################### TOPIC 1 ###############################
+INTRODUCTION
+1; Random variables and distributions, expected value, variance
+2; Law of large numbers, central limit theorem
+3; Correlation, error propagation
+4; Examples of random processes (radioactive decay, brownian motion, noise)
+
+5; Random number generation, Linear Congruential Generator (LCG), Mersenne Twister
+6; Uniform and non-uniform distribution generation (inverse tarnsformation, rejection sampling)
+7; Quality of RNG (autocorrelation, spectral test)
+8; Numerical verification of CLT, pi estimation
+
+############################### TOPIC 2 ###############################
+MC INTEGRATION
+1; High dimensional integration, standard methods (trapezoid, Simpson), curse of dimensionality
+2; Examples (partition functions, phase-space)
+3; MC integration, error scaling
+4; Importance sampling
+
+############################### TOPIC 3 ###############################
+DATA ANALYSIS
+1; Traditional data analysis methods, statistical error estimation
+2; Bootstrap method
+3; Jackknife method
+
+############################### TOPIC 4 ###############################
+METROPOLIS-HASTINGS ALGORITHM
+1; Markov chains and ergodicity, stability
+2; Examples (decays, PageRank)
+3; Metropolis-Hastings algorithm, alternatives (heat bath algorithm, Hamiltonian MC)
+4; Application of Ising model, simulated annealing
+
+############################### TOPIC 5 ###############################
+STOCHASTIC PROCESSES
+1; Random walk, Brownian motion, Brownian bridge 
+2; Diffusion, connection to random walk
+3; Fokker-Plank and Langevin equations
+4; MC implementation
+
+############################### TOPIC 6 ###############################
+MC SIMULATIONS ON A GRAPH
+1; Basic graph creating algorithms (Erdős-Rényi, Barabási-Albert) and their properties
+2; SIS and SIR model of infections
+3; Simulation of spreading of diseases
+
+############################### TOPIC 7 ###############################
+MC-BASED GAME ALGORITHMS
+1; Monte Carlo Tree Search (MCTS) 
+2; Theory and application in games
+
+############################### TOPIC 8 ###############################
+REVERSE MONTE CARLO MODELING
+1; Theory of RMC
+2; Example application in material science
+
+############################### TOPIC 9 ###############################
+PARTICLE PHYSICS SIMULATION
+1; Interactions: cross section, scattering, energy loss mechanisms, decays
+2; Simple modeling examples (showers, ionization energy loss)
+3; Geant4 usage
+
+
+
